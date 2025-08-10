@@ -4,7 +4,11 @@
 //let paragrafo = document.querySelector("p");
 //paragrafo.innerHTML = "Escolha entre 1 a 10"
 let listaNumeroSorteado = []
+<<<<<<< HEAD
 let limiteDeEspaco = 15;
+=======
+let limiteDeEspaco = 30;
+>>>>>>> parent of 3b8f626 (Conflito 1)
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
